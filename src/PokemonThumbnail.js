@@ -1,3 +1,4 @@
+// 
 function PokemonThumbnail({ pokemon }) {
     return (
       <div className={"thumb-container " + `${pokemon.type}`}>
